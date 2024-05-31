@@ -1,0 +1,12 @@
+.filters-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  .filter-item {
+    flex: 1 1 200px;
+    min-width: 200px;
+  }
+  
